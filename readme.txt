@@ -3,6 +3,8 @@ learning the basics
 of git
 xxxx
 
+3.edit just curios
+
 
 adding few mor lines
 another one
